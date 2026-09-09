@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="blog-index"><h1>No encontramos esa guía.</h1><p>Podés explorar los temas disponibles o volver a la evaluación.</p><a className="blog-button" href="/blog">Ver todas las guías</a></main>}
