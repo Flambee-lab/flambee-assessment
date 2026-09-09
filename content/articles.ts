@@ -97,7 +97,7 @@ export const articles:Article[] = [
       {
         "title": "Identificá qué cambia realmente el precio",
         "paragraphs": [
-          "Separá datos indispensables de detalles que pueden definirse después. En uniformes, por ejemplo ilustrativo, cantidad, tipo de prenda y personalización pueden cambiar la cotización; el nombre de cada persona quizá se necesite recién para producir.",
+          "Separá datos indispensables de detalles que pueden definirse después. En un ejemplo de venta de uniformes, cantidad, tipo de prenda y personalización pueden cambiar la cotización; el nombre de cada persona quizá se necesite recién para producir.",
           "Pedí primero los datos que modifican la propuesta. Un formulario que exige toda la información de producción puede frenar una consulta que todavía es exploratoria."
         ]
       },
@@ -323,7 +323,7 @@ export const articles:Article[] = [
         "title": "Seguí un dato de principio a fin",
         "paragraphs": [
           "Elegí un caso y anotá dónde nace, quién lo modifica y dónde termina. Marcá en qué pasos se copia y en cuáles se decide algo. Esa distinción separa una integración de un problema de criterio.",
-          "Por ejemplo ilustrativo, trasladar un número de pedido es distinto de reconocer a qué producto se refiere un apodo. El primer paso tiene una regla directa; el segundo puede requerir una tabla de equivalencias o interpretación."
+          "En un ejemplo ilustrativo, trasladar un número de pedido es distinto de reconocer a qué producto se refiere un apodo. El primer paso tiene una regla directa; el segundo puede requerir una tabla de equivalencias o interpretación."
         ]
       },
       {
@@ -334,7 +334,7 @@ export const articles:Article[] = [
         ]
       },
       {
-        "title": "Diseñá el fallo normal",
+        "title": "Definí qué pasa si falla la conexión",
         "paragraphs": [
           "Una transferencia puede interrumpirse. El equipo necesita ver qué quedó pendiente, si se puede reintentar y cómo evitar duplicar una operación ya completada. Un aviso genérico de error no alcanza.",
           "Conviene conservar un registro comprensible de origen, destino y estado. Esto permite resolver una excepción sin revisar manualmente todo el lote."
